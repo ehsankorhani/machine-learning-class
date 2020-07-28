@@ -1,2 +1,5 @@
-# machine-learning-class
-Dive into machine learning
+# Machine Learning Class
+
+### Table of Contents
+
+1. What is Machine Learning
